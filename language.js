@@ -68,7 +68,7 @@ const jsonKorean = {
   "hands__nav": "핸즈프리",
   "video__nav": "개별조작",
   "shuffle__nav": "랜덤플레이",
-  "gallery__nav": "멀티화면",
+  "gallery__nav": "샘플화면",
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
 
@@ -83,7 +83,7 @@ const jsonKorean = {
   "video_control_desc": "동시에 재생/정지/음소거 가능. 개별 비디오의 음량 조절 가능",
   "shuffle_title": "재생목록",
   "shuffle_desc": "좋아하는 장르별로 재생 목록을 만드세요. 재생목록들을 선택하여 랜덤 플레이도 가능합니다.",
-  "awesome_sc": "멀티 화면",
+  "awesome_sc": "샘플화면",
   "feature_title": "특징",
   "feature_desc": "",
   "feature_title_one": "무한 반복",
