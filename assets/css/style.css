@@ -657,9 +657,20 @@ footer .copyright__wrapp {
 	
 } 
 
-.video {
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: auto; /* 비디오가 컨테이너에 맞게 조정됨 */
-    object-fit: cover; /* 비디오가 컨테이너를 채우도록 설정 */
+    height: 100%;
 }
 
