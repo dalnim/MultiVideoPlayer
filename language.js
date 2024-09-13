@@ -130,6 +130,69 @@ const jsonKorean = {
   "copyright__desc": "저작권 © 2024 아라원소프트. 모든 권리 보유.",
 
 }
+const jsonJapanese = {
+  "hands__nav": "ハンズフリー",
+  "video__nav": "コントロール",
+  "shuffle__nav": "プレイリスト",
+  "gallery__nav": "スクリーンショット",
+  "feature__nav": "機能",
+  "reviews__nav": "レビュー",
+
+  "hero_title": "たった一つのビデオ？本気で？",
+  "watch__title": "安全のためにミュート！",
+  "watch__desc": "一度のミスで全てが台無しに。バックグラウンドに切り替えると自動停止。",
+  "playback__title": "マルチスクリーン",
+  "playback__desc": "スマホで最大4つのビデオを同時に視聴。タブレットでは最大9つのビデオ。",
+  "hands_free_title": "ハンズフリー",
+  "hands_free_desc": "無限リピート + ABリピート + 自動ランダム再生",
+  "video_control_title": "すべてまたは個別ビデオのコントロール",
+  "video_control_desc": "同時に再生/一時停止/ミュート。個別のビデオの音量調整。",
+  "shuffle_title": "プレイリスト",
+  "shuffle_desc": "お気に入りのジャンルでプレイリストを作成。ランダム再生のためのプレイリストも選択可能。",
+  "awesome_sc": "素晴らしいスクリーンショット",
+  "feature_title": "機能",
+  "feature_desc": "",
+  "feature_title_one": "無限リピート",
+  "feature_desc_one": "再生が終了すると、再び最初から始まります。ABセクション再生も無限にリピート。",
+  "feature_title_two": "デフォルトでミュート",
+  "feature_desc_two": "初回再生時にデフォルトでミュート。アプリがバックグラウンドに切り替わると自動停止。",
+  "feature_title_three": "マルチスクリーン再生",
+  "feature_desc_three": "複数のスクリーンで同時に視聴を楽しむ。",
+  "feature_title_four": "ABリピート",
+  "feature_desc_four": "ビデオが長い場合、お気に入りのシーンのためにABリピートセクションを作成。",
+  "feature_title_five": "ランダム再生 + プレイリスト",
+  "feature_desc_five": "同じビデオを見るのは飽きるかも。ランダム再生で新しいビデオを連続して楽しむ。",
+  "feature_title_six": "タイムシフト再生",
+  "feature_desc_six": "同時再生またはタイムシフト再生で同じビデオを複数のスクリーンで体験。",
+  "testi_title": "お客様からの評価",
+  "testi_desc_one": "このアプリは非常にユニークです。同時に複数のビデオを視聴できるアプリは他に記憶がありません。ぜひお試しください！",
+  "testi_author_one": "サラ・L.",
+  "testi_desc_two": "2〜4つのビデオを同時に見られ、それぞれのビデオの音量を下げることができます。ありがとう！",
+  "testi_author_two": "エミリー・R.",
+  "testi_desc_three": "便利で良いアプリです！ただし、YouTubeなどの異なるソースからビデオを追加できるようにしてほしいです。現時点ではビデオはうまく機能しています。",
+  "testi_author_three": "ジョン・M.",
+  "testi_desc_four": "素晴らしいアプリ！これが実際に機能するものを見つけました。提案: ビデオ間の音量レベルを調整できるようにしてください！音量が大きすぎるビデオがあり、音量を下げたいです。",
+  "testi_author_four": "ジェシカ・T.",
+  "testi_desc_five": "ABリピート機能は私のニーズにぴったりです。ビデオをループするのが好きな人にこのアプリを強くお勧めします。",
+  "testi_author_five": "マイケル・K.",
+  "testi_desc_six": "プレイリストのシャッフル機能が大好きです。視聴体験を新鮮でエキサイティングに保ってくれます。",
+  "testi_author_six": "デイヴィッド・B.",
+
+  "unavailable__title": "サポートされていない機能",
+  "unavailable__desc": "以下の機能は将来サポートされる予定です。",
+  "unavailable__desc__one": "ウェブブラウザなし",
+  "unavailable__desc__two": "YouTubeなし",
+  "unavailable__desc__three": "まだストリーミングなし",
+  "available__title": "重要1",
+  "available__desc": "このアプリはサンプルコンテンツのみ提供します。ビデオはiPhoneのアプリのドキュメントフォルダに、Androidの電話ストレージに保存されている必要があります。",
+  "available__desc__four": "事前ダウンロードされたビデオのみ",
+
+  "app__title": "コミュニティに参加",
+  "app__title__desc": "RedditやDiscordで私たちのコミュニティに参加してください！集まって経験を共有し、一緒に楽しみましょう！",
+  
+  "maill__desc": "araonesoft@gmail.com",
+  "copyright__desc": "Copyright © 2024 AraOneSoft.co. All Rights Reserved."
+}
 
 const jsonEnglishMeta = {
   "description": "A video player that allows infinite playback of videos simultaneously on up to 4 screens (9 screens for tablets). Enjoy features like infinite loop, auto mute & background pause, multi-screen playback, AB repeat, random play & playlist, and batch control. Ideal for focused learning, practice, or revisiting your favorite scenes.",
@@ -141,6 +204,10 @@ const jsonKoreanMeta = {
   "description": "1~4개 화면에서 동시에 무제한 비디오 재생이 가능한 비디오 플레이어(태블릿의 경우 9개 화면까지 지원). 무한 반복, 자동 무음 및 백그라운드 일시 정지, 멀티 스크린 재생, AB 반복, 랜덤 재생 및 재생 목록, 배치 제어 기능 등의 다양한 기능을 제공하며, 집중 학습, 연습, 또는 좋아하는 장면을 다시 보는 데 적합합니다.",
   "keywords": "비디오 플레이어, 무제한 재생, 멀티 스크린 재생, AB 반복, 자동 무음, 백그라운드 일시 정지, 랜덤 재생, 재생 목록, 배치 제어"
 };
+const jsonJapaneseMeta = {
+  "description": "最大4画面（タブレットの場合は9画面）でビデオを無限に再生できるビデオプレイヤーです。無限ループ、自動ミュート＆バックグラウンド一時停止、マルチスクリーン再生、ABリピート、ランダム再生＆プレイリスト、バッチコントロールなどの機能を楽しめます。集中学習、練習、またはお気に入りのシーンの再視聴に最適です。",
+  "keywords": "ビデオプレイヤー, 無限再生, マルチスクリーン再生, ABリピート, 自動ミュート, バックグラウンド一時停止, ランダム再生, プレイリスト, バッチコントロール"
+}
 
 // Object to store image URLs for each language
 const imageUrls = {
@@ -189,10 +256,20 @@ function updateImageSources(language) {
   }
 }
 
+function getLanguageData(language) {
+  const languageData = {
+    'en': { jsonData: jsonEnglish, metaData: jsonEnglishMeta },
+    'ko': { jsonData: jsonKorean, metaData: jsonKoreanMeta },
+    'ja': { jsonData: jsonJapanese, metaData: jsonJapaneseMeta }
+  };
+
+  return languageData[language] || languageData['en']; // Default to English if language is not recognized
+}
 // Main function to update language
 function updateLanguage(language) {
-  const jsonData = language === 'en' ? jsonEnglish : jsonKorean;
-  const metaData = language === 'en' ? jsonEnglishMeta : jsonKoreanMeta;
+	const { jsonData, metaData } = getLanguageData(language);
+  //const jsonData = language === 'en' ? jsonEnglish : jsonKorean;
+  //const metaData = language === 'en' ? jsonEnglishMeta : jsonKoreanMeta;
 
   updateTextContent(jsonData);
   updateMetaTags(metaData);
