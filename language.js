@@ -6,7 +6,7 @@ const jsonEnglish = {
   "feature__nav": "Features",
   "reviews__nav": "Reviews",
 
-  "hero_title": "Erotic Multi Videos App",
+  "hero_title": "Multi Videos App",
   "hero_desc": "Only watch one video at a time? Seriously? Enjoy multiple videos simultaneously",
   "watch__title": "Mute for Safety!",
   "watch__desc": "One mistake can ruin everything. Auto-stop when switching to background.",
@@ -73,7 +73,7 @@ const jsonKorean = {
   "gallery__nav": "샘플화면",
   "feature__nav": "특징",
   "reviews__nav": "리뷰",
-  "hero_title": "에로틱 멀티 비디오 앱", 
+  "hero_title": "멀티 비디오 앱", 
   "hero_desc": "한번에 비디오 하나만 본다구요? 한번에 여러개의 비디오들을 동시에 즐기세요.",
   "watch__title": "안전제일! 기본무음",
   "watch__desc": "재생시작시 갑자기 큰소리가 나면 민망하죠? 그래서 기본무음입니다. 백그라운드 전환시에도 자동 재생 중지되구요.",
@@ -143,7 +143,7 @@ const jsonJapanese = {
   "feature__nav": "機能",
   "reviews__nav": "レビュー",
 
-    "hero_title": "エロティックマルチビデオプレーヤー",
+    "hero_title": "マルチビデオプレーヤー",
       "hero_desc": "一度に一つの動画しか見ませんか？本気ですか？複数の動画を同時に楽しんでください",
   "watch__title": "安全のためにミュート！",
   "watch__desc": "一度のミスで全てが台無しに。バックグラウンドに切り替えると自動停止。",
@@ -213,7 +213,7 @@ const jsonSpanish = {
   "feature__nav": "Características",
   "reviews__nav": "Reseñas",
 
-  "hero_title": "Reproductor de videos múltiples eróticos",
+  "hero_title": "Reproductor de videos múltiples",
       "hero_desc": "¿Solo ves un video a la vez? ¿En serio? Disfruta de múltiples videos simultáneamente",
   "watch__title": "¡Silencio por seguridad!",
   "watch__desc": "Un solo error puede arruinarlo todo. Parada automática al cambiar al fondo.",
@@ -280,7 +280,7 @@ const jsonFrench = {
   "feature__nav": "Caractéristiques",
   "reviews__nav": "Avis",
 
-  "hero_title": "Lecteur vidéo multi-érotique",
+  "hero_title": "Lecteur vidéo multi",
       "hero_desc": "Vous ne regardez qu'une seule vidéo à la fois ? Sérieusement ? Profitez de plusieurs vidéos simultanément",
   "watch__title": "Muet pour plus de sécurité !",
   "watch__desc": "Une seule erreur peut tout gâcher. Arrêt automatique lors du passage en arrière-plan.",
@@ -347,7 +347,7 @@ const jsonDutch = {
   "feature__nav": "Kenmerken",
   "reviews__nav": "Recensies",
 
-  "hero_title": "Erotische multi-videospeler",
+  "hero_title": "multi-videospeler",
       "hero_desc": "Kijk je maar één video tegelijk? Echt? Geniet van meerdere video's tegelijkertijd",
   "watch__title": "Dempen voor veiligheid!",
   "watch__desc": "Een fout kan alles verpesten. Automatisch stoppen bij het overschakelen naar de achtergrond.",
@@ -415,7 +415,7 @@ const jsonNorwegian = {
   "feature__nav": "Funksjoner",
   "reviews__nav": "Anmeldelser",
 
-  "hero_title": "Erotisk multivideospiller",
+  "hero_title": "multivideospiller",
       "hero_desc": "Ser du bare én video om gangen? Seriøst? Nyt flere videoer samtidig",
   "watch__title": "Dempet for sikkerhet!",
   "watch__desc": "Én feil kan ødelegge alt. Automatisk stopp når du bytter til bakgrunnen.",
@@ -484,7 +484,7 @@ const jsonGerman = {
   "feature__nav": "Funktionen",
   "reviews__nav": "Bewertungen",
 
-  "hero_title": "Erotischer Multi-Videoplayer",
+  "hero_title": "Mehrfacher Videoplayer",
       "hero_desc": "Schaust du nur ein Video auf einmal? Ernsthaft? Genieße mehrere Videos gleichzeitig",
   "watch__title": "Stumm zur Sicherheit!",
   "watch__desc": "Ein Fehler kann alles ruinieren. Automatischer Stopp beim Wechsel in den Hintergrund.",
@@ -552,7 +552,7 @@ const jsonRussian = {
   "feature__nav": "Функции",
   "reviews__nav": "Отзывы",
 
-  "hero_title": "Эротический многовидео плеер",
+  "hero_title": "Мульти Видеоплеер",
       "hero_desc": "Смотрите только одно видео за раз? Серьезно? Наслаждайтесь несколькими видео одновременно",
   "watch__title": "Отключить звук для безопасности!",
   "watch__desc": "Одна ошибка может все испортить. Автоостановка при переключении в фоновый режим.",
@@ -620,7 +620,7 @@ const jsonVietnamese = {
   "feature__nav": "Tính năng",
   "reviews__nav": "Đánh giá",
 
-  "hero_title": "Trình phát video đa năng khiêu dâm",
+  "hero_title": "Trình Phát Video Đa Năng",
       "hero_desc": "Chỉ xem một video mỗi lần? Thật sao? Thưởng thức nhiều video cùng một lúc",
   "watch__title": "Tắt tiếng để an toàn!",
   "watch__desc": "Một sai lầm có thể làm hỏng mọi thứ. Tự động dừng khi chuyển sang chế độ nền.",
@@ -689,7 +689,7 @@ const jsonItalian = {
   "feature__nav": "Caratteristiche",
   "reviews__nav": "Recensioni",
 
-  "hero_title": "Lettore video erotico multi-video",
+  "hero_title": "Lettore Video Multiplo",
       "hero_desc": "Guardi solo un video alla volta? Seriamente? Goditi più video contemporaneamente",
   "watch__title": "Silenzio per Sicurezza!",
   "watch__desc": "Un errore può rovinare tutto. Arresto automatico quando si passa in background.",
@@ -757,7 +757,7 @@ const jsonChineseSimplified = {
   "feature__nav": "功能",
   "reviews__nav": "评论",
 
-  "hero_title": "情色多视频播放器",
+  "hero_title": "多视频播放器",
       "hero_desc": "一次只看一个视频？真的吗？同时欣赏多个视频",
   "watch__title": "安全静音！",
   "watch__desc": "一个错误可能会毁掉一切。切换到后台时自动停止播放。",
@@ -824,7 +824,7 @@ const jsonChineseTraditional = {
   "feature__nav": "功能",
   "reviews__nav": "評論",
 
-  "hero_title": "情色多視訊播放器",
+  "hero_title": "多視訊播放器",
       "hero_desc": "一次只看一個視訊？認真嗎？同時享受多個視訊",
   "watch__title": "安全靜音！",
   "watch__desc": "一個錯誤可能會毀掉一切。切換到背景時自動停止播放。",
@@ -892,7 +892,7 @@ const jsonArabic = {
   "feature__nav": "الميزات",
   "reviews__nav": "التقييمات",
 
-  "hero_title": "مشغل فيديوهات متعددة إباحية",
+  "hero_title": "مشغل فيديو متعدد",
       "hero_desc": "تشاهد فيديو واحد فقط في كل مرة؟ حقاً؟ استمتع بمشاهدة عدة فيديوهات في نفس الوقت",
   "watch__title": "صامت من أجل الأمان!",
   "watch__desc": "قد تدمر خطأ واحد كل شيء. توقف تلقائي عند الانتقال إلى الخلفية.",
@@ -960,7 +960,7 @@ const jsonCzech = {
   "feature__nav": "Funkce",
   "reviews__nav": "Recenze",
 
-  "hero_title": "Erotický přehrávač více videí",
+  "hero_title": "přehrávač více videí",
       "hero_desc": "Sledujete vždy jen jedno video? Vážně? Užívejte si několik videí najednou",
   "watch__title": "Ticho pro bezpečnost!",
   "watch__desc": "Jeden chybný krok může všechno zničit. Automatické zastavení při přepnutí do pozadí.",
@@ -1028,7 +1028,7 @@ const jsonCroatian = {
   "feature__nav": "Značajke",
   "reviews__nav": "Recenzije",
 
-  "hero_title": "Erotski multivideo player",
+  "hero_title": "multivideo player",
       "hero_desc": "Gledate samo jedan video odjednom? Ozbiljno? Uživajte u više videa istovremeno",
   "watch__title": "Tiho za sigurnost!",
   "watch__desc": "Jedna pogreška može sve uništiti. Automatsko zaustavljanje prilikom prelaska u pozadinu.",
@@ -1096,7 +1096,7 @@ const jsonDanish = {
   "feature__nav": "Funktioner",
   "reviews__nav": "Anmeldelser",
 
-  "hero_title": "Erotisk multivideoafspiller",
+  "hero_title": "multivideoafspiller",
       "hero_desc": "Ser du kun én video ad gangen? Seriøst? Nyd flere videoer samtidig",
   "watch__title": "Lydløs for sikkerhed!",
   "watch__desc": "Én fejl kan ødelægge alt. Auto-stop når du skifter til baggrunden.",
@@ -1164,7 +1164,7 @@ const jsonFinnish = {
   "feature__nav": "Ominaisuudet",
   "reviews__nav": "Arvostelut",
 
-  "hero_title": "Eroottinen monivideonsoitin",
+  "hero_title": "monivideonsoitin",
       "hero_desc": "Katsotko vain yhtä videota kerrallaan? Oikeasti? Nauti useista videoista samanaikaisesti",
   "watch__title": "Äänetön turvallisuuden vuoksi!",
   "watch__desc": "Yksi virhe voi tuhota kaiken. Automaattinen pysäytys siirryttäessä taustalle.",
@@ -1232,7 +1232,7 @@ const jsonGreek = {
   "feature__nav": "Χαρακτηριστικά",
   "reviews__nav": "Κριτικές",
 
-  "hero_title": "Ερωτική συσκευή αναπαραγωγής πολλαπλών βίντεο",
+  "hero_title": "Πολλαπλός Βίντεο Παίκτης",
       "hero_desc": "Βλέπετε μόνο ένα βίντεο κάθε φορά; Σοβαρά; Απολαύστε πολλαπλά βίντεο ταυτόχρονα",
   "watch__title": "Σιωπηλό για ασφάλεια!",
   "watch__desc": "Μία λάθος κίνηση μπορεί να καταστρέψει τα πάντα. Αυτόματη διακοπή όταν μεταβαίνετε στο παρασκήνιο.",
@@ -1300,7 +1300,7 @@ const jsonHebrew = {
   "feature__nav": "תכונות",
   "reviews__nav": "ביקורות",
 
-  "hero_title": "נגן וידאו ארוטי מרובה",
+  "hero_title": "נגן וידאו מרובה",
       "hero_desc": "צופה רק בסרטון אחד בכל פעם? ברצינות? תהנה ממספר סרטונים בו זמנית",
   "watch__title": "שקט בשביל הביטחון!",
   "watch__desc": "תנועה לא נכונה יכולה להרוס הכל. הפסקה אוטומטית כאשר אתה עובר לרקע.",
@@ -1368,7 +1368,7 @@ const jsonHindi = {
   "feature__nav": "विशेषताएँ",
   "reviews__nav": "समीक्षाएँ",
 
-  "hero_title": "एरोटिक मल्टी वीडियो प्लेयर",
+  "hero_title": "मल्टी वीडियो प्लेयर",
       "hero_desc": "एक समय में केवल एक वीडियो देखते हैं? गंभीरता से? कई वीडियो एक साथ देखें",
   "watch__title": "सुरक्षा के लिए म्यूट!",
   "watch__desc": "एक गलती सब कुछ बर्बाद कर सकती है। पृष्ठभूमि में स्विच करते समय ऑटो-स्टॉप।",
@@ -1436,7 +1436,7 @@ const jsonHungarian = {
   "feature__nav": "Jellemzők",
   "reviews__nav": "Vélemények",
 
-  "hero_title": "Erotikus többvideós lejátszó",
+  "hero_title": "Több Videós Lejátszó",
       "hero_desc": "Csak egy videót nézel egyszerre? Komolyan? Élvezd egyszerre több videót",
   "watch__title": "Némítás biztonság érdekében!",
   "watch__desc": "Egy hiba mindent tönkretehet. Automatikus leállás, amikor a háttérbe vált.",
@@ -1504,7 +1504,7 @@ const jsonIndonesian = {
   "feature__nav": "Fitur",
   "reviews__nav": "Ulasan",
 
-  "hero_title": "Pemutar Video Multi Erotis",
+  "hero_title": "Pemutar Video Ganda",
       "hero_desc": "Hanya menonton satu video sekaligus? Serius? Nikmati banyak video secara bersamaan",
   "watch__title": "Matikan untuk Keamanan!",
   "watch__desc": "Satu kesalahan dapat merusak segalanya. Berhenti otomatis saat beralih ke latar belakang.",
@@ -1572,7 +1572,7 @@ const jsonMalay = {
   "feature__nav": "Ciri",
   "reviews__nav": "Ulasan",
 
-  "hero_title": "Pemain Video Multi Erotik",
+  "hero_title": "Pemain Video Pelbagai",
       "hero_desc": "Hanya menonton satu video pada satu masa? Serius? Nikmati pelbagai video serentak",
   "watch__title": "Matikan untuk Keselamatan!",
   "watch__desc": "Satu kesilapan boleh merosakkan segalanya. Berhenti secara automatik apabila beralih ke latar belakang.",
@@ -1640,7 +1640,7 @@ const jsonPolish = {
   "feature__nav": "Funkcje",
   "reviews__nav": "Opinie",
 
-  "hero_title": "Erotyczny odtwarzacz wideo wielokrotnego odtwarzania",
+  "hero_title": "Odtwarzacz Wideo Wielokrotny",
       "hero_desc": "Oglądasz tylko jedno wideo na raz? Serio? Ciesz się wieloma filmami jednocześnie",
   "watch__title": "Wyłącz dźwięk dla bezpieczeństwa!",
   "watch__desc": "Jedno niedopatrzenie może zepsuć wszystko. Automatyczne zatrzymywanie przy przejściu w tle.",
@@ -1708,7 +1708,7 @@ const jsonRomanian = {
   "feature__nav": "Funcții",
   "reviews__nav": "Recenzii",
 
-  "hero_title": "Player video erotic multi",
+  "hero_title": "Player Video Multiplu",
       "hero_desc": "Vizionați un singur videoclip pe rând? Serios? Bucurați-vă de mai multe videoclipuri simultan",
   "watch__title": "Fără sunet pentru siguranță!",
   "watch__desc": "O greșeală poate strica totul. Oprire automată când treceți în fundal.",
@@ -1776,7 +1776,7 @@ const jsonSlovak = {
   "feature__nav": "Funkcie",
   "reviews__nav": "Recenzie",
 
-  "hero_title": "Erotický prehrávač viacerých videí",
+  "hero_title": "prehrávač viacerých videí",
       "hero_desc": "Sledujete iba jedno video naraz? Vážne? Užívajte si viacero videí súčasne",
   "watch__title": "Tichý pre bezpečnosť!",
   "watch__desc": "Jedna chyba môže pokaziť všetko. Automatické zastavenie pri prechode na pozadie.",
@@ -1844,7 +1844,7 @@ const jsonSwedish = {
   "feature__nav": "Funktioner",
   "reviews__nav": "Recensioner",
 
-  "hero_title": "Erotisk multivideospelare",
+  "hero_title": "multivideospelare",
       "hero_desc": "Tittar du bara på en video åt gången? Seriöst? Njut av flera videor samtidigt",
   "watch__title": "Tyst för säkerhet!",
   "watch__desc": "Ett misstag kan förstöra allt. Automatisk stopp när du växlar till bakgrunden.",
@@ -1912,7 +1912,7 @@ const jsonThai = {
   "feature__nav": "ฟีเจอร์",
   "reviews__nav": "รีวิว",
 
-  "hero_title": "เครื่องเล่นวิดีโอหลายรายการที่เร้าอารมณ์",
+  "hero_title": "เครื่องเล่นวิดีโอหลายรายการ",
       "hero_desc": "ดูวิดีโอครั้งละหนึ่งวิดีโอ? จริงเหรอ? เพลิดเพลินกับวิดีโอหลายรายการพร้อมกัน",
   "watch__title": "ปิดเสียงเพื่อความปลอดภัย!",
   "watch__desc": "ความผิดพลาดเพียงครั้งเดียวอาจทำลายทุกอย่างได้ ปิดการเล่นอัตโนมัติเมื่อสลับไปที่พื้นหลัง",
@@ -1980,7 +1980,7 @@ const jsonTurkish = {
   "feature__nav": "Özellikler",
   "reviews__nav": "Yorumlar",
 
-  "hero_title": "Erotik Çoklu Video Oynatıcı",
+  "hero_title": "Çoklu Video Oynatıcı",
       "hero_desc": "Sadece bir videoyu aynı anda mı izliyorsunuz? Cidden mi? Aynı anda birden fazla videonun tadını çıkarın",
   "watch__title": "Güvenlik İçin Sessiz Mod!",
   "watch__desc": "Tek bir hata her şeyi mahvedebilir. Arka plana geçerken otomatik duraklatma.",
@@ -2048,7 +2048,7 @@ const jsonUkrainian = {
   "feature__nav": "Особливості",
   "reviews__nav": "Відгуки",
 
-  "hero_title": "Відеоплеєр для дорослих", 
+  "hero_title": "Мульти Відеоплеєр", 
   "hero_desc": "Можете переглядати тільки одне відео одночасно? Насолоджуйтесь кількома відео одночасно.",
   "watch__title": "Безпека: Мовчання!",
   "watch__desc": "Одна помилка може все зіпсувати. Автоматична зупинка при переході в фоновий режим.",
