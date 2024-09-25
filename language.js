@@ -2192,12 +2192,20 @@ function getLanguageData(language) {
   return languageData[language] || languageData['en']; // Default to English if language is not recognized
 }
 
+// 기본 언어를 반환하는 함수
+function getStoredLanguage() {
+  return localStorage.getItem('selectedLanguage') || 'en';
+}
+
 // Main function to update language
 function updateLanguage(language) {
-	const { jsonData, metaData } = getLanguageData(language);
+  const { jsonData, metaData } = getLanguageData(language);
+  const storedLanguage = getStoredLanguage();
 
   updateTextContent(jsonData);
   updateMetaTags(metaData);
+  updateRedditLink(storedLanguage);
+  updateKakaoLinkVisibility(storedLanguage);
   updateImageSources(language);
 }
 
@@ -2210,7 +2218,7 @@ document.querySelector("#language").addEventListener('change', function () {
 })
 // on page load, set the selected language from local storage
 document.addEventListener('DOMContentLoaded', function () {
-  const storedLanguage = localStorage.getItem('selectedLanguage') || 'en';
+  const storedLanguage = getStoredLanguage();
   document.querySelector("#language").value = storedLanguage;
   updateLanguage(storedLanguage);
   console.log('stored lang', storedLanguage);
@@ -2221,5 +2229,27 @@ document.addEventListener('DOMContentLoaded', function () {
     document.querySelector('#' + imageId).src = storedImageSrc;
   }
 })
+
+// 언어에 따른 Reddit 링크 설정
+function updateRedditLink(language) {
+	const redditLink = document.getElementById('redditLink');
+	if (language === 'ko') {
+	  redditLink.href = 'https://www.reddit.com/r/AraMultiPlayer/comments/1e9h787/아라_멀티플레이어/';
+	} else {
+	  redditLink.href = 'https://www.reddit.com/r/AraMultiPlayer/comments/1e9fk9t/about_aramultiplayer_app/';
+	}
+}
+// 언어에 따른 KakaoTalk 링크 표시 여부 설정
+function updateKakaoLinkVisibility(language) {
+  const kakaoLink = document.getElementById('kakaoLink');
+  if (language === 'ko') {
+    kakaoLink.classList.remove('kakao-hidden'); // 한국어일 때만 보이도록 설정
+    kakaoLink.classList.add('kakao-visible');
+  } else {
+    kakaoLink.classList.remove('kakao-visible'); // 다른 언어일 경우 숨김
+    kakaoLink.classList.add('kakao-hidden');
+  }
+}
+
 
 
